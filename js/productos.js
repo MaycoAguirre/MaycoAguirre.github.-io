@@ -5,6 +5,12 @@ crearProducto(
   true
 );
 crearProducto(
+  "Seleccion Argentina 2024",
+  145000,
+  "https://afaar.vtexassets.com/arquivos/ids/156628/IP8388_FC_eCom.jpg?v=638459503851330000",
+  true,
+);
+crearProducto(
   "Argentina 94' retro",
   130000,
   "https://d22fxaf9t8d39k.cloudfront.net/f73c70a647b15c7c9c47d6eaed5849ab2e703da0881d986af2e81c694df0a21c18161.png",
